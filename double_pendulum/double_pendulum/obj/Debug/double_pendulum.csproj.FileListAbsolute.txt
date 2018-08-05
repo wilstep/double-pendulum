@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\projects\double_pendulum\double_pendulum\bin\Debug\double_pendulum.exe.config
+C:\Users\user\source\repos\projects\double_pendulum\double_pendulum\bin\Debug\double_pendulum.exe
+C:\Users\user\source\repos\projects\double_pendulum\double_pendulum\bin\Debug\double_pendulum.pdb
+C:\Users\user\source\repos\projects\double_pendulum\double_pendulum\obj\Debug\double_pendulum.csprojAssemblyReference.cache
+C:\Users\user\source\repos\projects\double_pendulum\double_pendulum\obj\Debug\double_pendulum.Properties.Resources.resources
+C:\Users\user\source\repos\projects\double_pendulum\double_pendulum\obj\Debug\double_pendulum.csproj.GenerateResource.cache
+C:\Users\user\source\repos\projects\double_pendulum\double_pendulum\obj\Debug\double_pendulum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\projects\double_pendulum\double_pendulum\obj\Debug\double_pendulum.exe
+C:\Users\user\source\repos\projects\double_pendulum\double_pendulum\obj\Debug\double_pendulum.pdb
+C:\Users\user\source\repos\projects\double_pendulum\double_pendulum\obj\Debug\double_pendulum.Pendulum.resources
+C:\Users\user\source\repos\projects\double_pendulum\double_pendulum\bin\Debug\double_pendulum.exe.manifest
+C:\Users\user\source\repos\projects\double_pendulum\double_pendulum\bin\Debug\double_pendulum.application
+C:\Users\user\source\repos\projects\double_pendulum\double_pendulum\obj\Debug\double_pendulum.exe.manifest
+C:\Users\user\source\repos\projects\double_pendulum\double_pendulum\obj\Debug\double_pendulum.application
